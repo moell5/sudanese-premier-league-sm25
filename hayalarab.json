@@ -1,0 +1,181 @@
+{
+	"PlayerData": [
+		{
+			"ID": 1,
+			"Forename": "Yassein",
+			"Surname": "Yousif Maki",
+			"ImageURL": ""
+		},
+		{
+			"ID": 2,
+			"Forename": "Youssef",
+			"Surname": "Wahda",
+			"ImageURL": ""
+        },
+		{
+			"ID": 3,
+			"Forename": "Bakri",
+			"Surname": "Falah",
+			"ImageURL": ""
+        },
+		{
+			"ID": 4,
+			"Forename": "Moazaam",
+			"Surname": "Toto",
+			"ImageURL": ""
+        },
+		{
+			"ID": 5,
+			"Forename": "Walid",
+			"Surname": "Alaadin",
+			"ImageURL": ""
+        },
+		{
+			"ID": 6,
+			"Forename": "Khatab",
+			"Surname": "Faisal",
+			"ImageURL": ""
+        },
+		{
+			"ID": 7,
+			"Forename": "Mustafa",
+			"Surname": "Elfadni",
+			"ImageURL": ""
+        },
+		{
+			"ID": 8,
+			"Forename": "Ahmed",
+			"Surname": "Nasreldin",
+			"ImageURL": ""
+        },
+		{
+			"ID": 9,
+			"Forename": "Atak",
+			"Surname": "Lual",
+			"ImageURL": ""
+        },
+		{
+			"ID": 10,
+			"Forename": "Nadir",
+			"Surname": "Eltayeb",
+			"ImageURL": ""
+        },
+		{
+			"ID": 11,
+			"Forename": "Mojtaba",
+			"Surname": Al Mardy"",
+			"ImageURL": ""
+        },
+		{
+			"ID": 12,
+			"Forename": "Amgad",
+			"Surname": "Ismail Ahmed",
+			"ImageURL": ""
+        },
+		{
+			"ID": 13,
+			"Forename": "Gahid",
+			"Surname": "Mahgoub",
+			"ImageURL": ""
+        },
+		{
+			"ID": 14,
+			"Forename": "Fathi",
+			"Surname": "Ibrahim Khamis",
+			"ImageURL": ""
+        },
+		{
+			"ID": 15,
+			"Forename": "Saif",
+			"Surname": "Masawi",
+			"ImageURL": ""
+        },
+		{
+			"ID": 16,
+			"Forename": "Salah",
+			"Surname": "Ibrahim",
+			"ImageURL": ""
+        },
+		{
+			"ID": 17,
+			"Forename": "Omer",
+			"Surname": "Elsamani",
+			"ImageURL": ""
+        },
+		{
+			"ID": 18,
+			"Forename": "Mugahid",
+			"Surname": "Faroug",
+			"ImageURL": ""
+        },
+		{
+			"ID": 19,
+			"Forename": "Eid",
+			"Surname": "Mugadam",
+			"ImageURL": ""
+        },
+		{
+			"ID": 20,Gbagbo",
+			"Surname": "Junior Magbi",
+			"ImageURL": ""
+        },
+		{
+			"ID": 21,
+			"Forename": "Mudathir",
+			"Surname": "Careca",
+			"ImageURL": ""
+        },
+		{
+			"ID": 22,
+			"Forename": "Muhanad",
+			"Surname": "Musa",
+			"ImageURL": ""
+        },
+		{
+			"ID": 23,
+			"Forename": "Mahmoud",
+			"Surname": "Hamid",
+			"ImageURL": ""
+        },
+		{
+			"ID": 24,
+			"Forename": "Abobaker",
+			"Surname": "Girfa",
+			"ImageURL": ""
+        },
+		{
+			"ID": 25,
+			"Forename": "Mahir",
+			"Surname": "Osman",
+			"ImageURL": ""
+        }
+	],
+	"ClubData": [
+		{
+			"ID": 4,
+			"Name": "Al Ahly Shendi",
+			"ShortName": "ASE",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/8/87/Al-Ahly_Shendi_%28logo%29.jpg"
+		}
+	],
+	"LeagueData": [
+		{
+			"ID": 104,
+			"Name": "Sudanese Premier League",
+			"ImageURL": "https://www.kickalgor.com/wp-content/uploads/2019/08/Sudani_Premier_League.png"
+		}
+	],
+	"CupData": [
+		{
+			"ID": 204,
+			"Name": "Sudanese National Cup",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/ar/2/25/Sudan_Cup.png"
+		}
+	],
+	"StadiumData": [
+		{
+			"ID": 304,
+			"Name": "Dongala Stadium"
+		}
+	]
+}

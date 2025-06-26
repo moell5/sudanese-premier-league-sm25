@@ -1,0 +1,182 @@
+{
+	"PlayerData": [
+		{
+			"ID": 1,
+			"Forename": "Issa",
+			"Surname": "Fofana",
+			"ImageURL": ""
+		},
+		{
+			"ID": 2,
+			"Forename": "Ali",
+			"Surname": "Abu Eshrein",
+			"ImageURL": ""
+        },
+		{
+			"ID": 3,
+			"Forename": "Ousmane",
+			"Surname": "Diouf",
+			"ImageURL": ""
+        },
+		{
+			"ID": 4,
+			"Forename": "Faris",
+			"Surname": "Abdallah",
+			"ImageURL": ""
+        },
+		{
+			"ID": 5,
+			"Forename": "Juniour",
+			"Surname": "Marc Mendy",
+			"ImageURL": ""
+        },
+		{
+			"ID": 6,
+			"Forename": "Steven",
+			"Surname": "Ebuela",
+			"ImageURL": ""
+        },
+		{
+			"ID": 7,
+			"Forename": "Eltayeb",
+			"Surname": "Abdelrazig",
+			"ImageURL": ""
+        },
+		{
+			"ID": 8,
+			"Forename": "Aime",
+			"Surname": "Tending",
+			"ImageURL": ""
+        },
+		{
+			"ID": 9,
+			"Forename": "Yasir",
+			"Surname": "Mozamil",
+			"ImageURL": ""
+        },
+		{
+			"ID": 10,
+			"Forename": "Khadim",
+			"Surname": "Diaw",
+			"ImageURL": ""
+        },
+		{
+			"ID": 11,
+			"Forename": "Salah",
+			"Surname": "Adel",
+			"ImageURL": ""
+        },
+		{
+			"ID": 12,
+			"Forename": "Madicke",
+			"Surname": "Kane",
+			"ImageURL": ""
+        },
+		{
+			"ID": 13,
+			"Forename": "Waledin",
+			"Surname": "Khidr",
+			"ImageURL": ""
+        },
+		{
+			"ID": 14,
+			"Forename": "Adama",
+			"Surname": "Coulibaly",
+			"ImageURL": ""
+        },
+		{
+			"ID": 15,
+			"Forename": "Mohamed",
+			"Surname": "Abdelrahman",
+			"ImageURL": ""
+        },
+		{
+			"ID": 16,
+			"Forename": "Tayeb",
+			"Surname": "Ben Zitoun",
+			"ImageURL": ""
+        },
+		{
+			"ID": 17,
+			"Forename": "Guessouma",
+			"Surname": "Fofana",
+			"ImageURL": ""
+        },
+		{
+			"ID": 18,
+			"Forename": "Ahmed Salem",
+			"Surname": "Mubarak",
+			"ImageURL": ""
+        },
+		{
+			"ID": 19,
+			"Forename": "Jean Claude",
+			"Surname": "Girmugisha",
+			"ImageURL": ""
+        },
+		{
+			"ID": 20,
+			"Forename": "Abdel Omer",
+			"Surname": "Raouf",
+			"ImageURL": ""
+        },
+		{
+			"ID": 21,
+			"Forename": "Mohamed",
+			"Surname": "Ering",
+			"ImageURL": ""
+        },
+		{
+			"ID": 22,
+			"Forename": "Mazen",
+			"Surname": "Samibo",
+			"ImageURL": ""
+        },
+		{
+			"ID": 23,
+			"Forename": "Yaser",
+			"Surname": "Awad",
+			"ImageURL": ""
+        },
+		{
+			"ID": 24,
+			"Forename": "Musab",
+			"Surname": "Kurduman",
+			"ImageURL": ""
+        },
+		{
+			"ID": 25,
+			"Forename": "Albert",
+			"Surname": "Kangwanda",
+			"ImageURL": ""
+        }
+	],
+	"ClubData": [
+		{
+			"ID": 5,
+			"Name": "Al Hilal Omdurman",
+			"ShortName": "HIL",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Al-Hilal_Club_%28Omdurman%29_logo.png/190px-Al-Hilal_Club_%28Omdurman%29_logo.png"
+		}
+	],
+	"LeagueData": [
+		{
+			"ID": 105,
+			"Name": "Sudanese Premier League",
+			"ImageURL": "https://www.kickalgor.com/wp-content/uploads/2019/08/Sudani_Premier_League.png"
+		}
+	],
+	"CupData": [
+		{
+			"ID": 205,
+			"Name": "Sudanese National Cup",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/ar/2/25/Sudan_Cup.png"
+		}
+	],
+	"StadiumData": [
+		{
+			"ID": 305,
+			"Name": "Blue Jewel Stadium"
+		}
+	]
+}

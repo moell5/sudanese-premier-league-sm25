@@ -1,0 +1,182 @@
+{
+	"PlayerData": [
+		{
+			"ID": 1,
+			"Forename": "Ali",
+			"Surname": "Jemal",
+			"ImageURL": ""
+		},
+		{
+			"ID": 2,
+			"Forename": "Jaras",
+			"Surname": "Kafi",
+			"ImageURL": ""
+        },
+		{
+			"ID": 3,
+			"Forename": "Adam",
+			"Surname": "Babajide",
+			"ImageURL": ""
+        },
+		{
+			"ID": 4,
+			"Forename": "Janard",
+			"Surname": "Mbemba",
+			"ImageURL": ""
+        },
+		{
+			"ID": 5,
+			"Forename": "Awad",
+			"Surname": "Zayed",
+			"ImageURL": ""
+        },
+		{
+			"ID": 6,
+			"Forename": "Ahmed",
+			"Surname": "Tabanja",
+			"ImageURL": ""
+        },
+		{
+			"ID": 7,
+			"Forename": "Amir",
+			"Surname": "Kamal",
+			"ImageURL": ""
+        },
+		{
+			"ID": 8,
+			"Forename": "Musab",
+			"Surname": "Makeen",
+			"ImageURL": ""
+        },
+		{
+			"ID": 9,
+			"Forename": "Musa",
+			"Surname": "Altayeb",
+			"ImageURL": ""
+        },
+		{
+			"ID": 10,
+			"Forename": "Mohamed",
+			"Surname": "Alrashed",
+			"ImageURL": ""
+        },
+		{
+			"ID": 11,
+			"Forename": "Obino",
+			"Surname": "Chisala",
+			"ImageURL": ""
+        },
+		{
+			"ID": 12,
+			"Forename": "Mustafa Salah",
+			"Surname": "Naji",
+			"ImageURL": ""
+        },
+		{
+			"ID": 13,
+			"Forename": "Musa",
+			"Surname": "Hussein",
+			"ImageURL": ""
+        },
+		{
+			"ID": 14,
+			"Forename": "Fady",
+			"Surname": "Coulibaly",
+			"ImageURL": ""
+        },
+		{
+			"ID": 15,
+			"Forename": "Ramadan",
+			"Surname": "Ajab",
+			"ImageURL": ""
+        },
+		{
+			"ID": 16,
+			"Forename": "Jide",
+			"Surname": "Fatokun",
+			"ImageURL": ""
+        },
+		{
+			"ID": 17,
+			"Forename": "Elsamani",
+			"Surname": "Elsawy",
+			"ImageURL": ""
+        },
+		{
+			"ID": 18,
+			"Forename": "Mujtaba",
+			"Surname": "Faisal",
+			"ImageURL": ""
+        },
+		{
+			"ID": 19,
+			"Forename": "Santiago",
+			"Surname": "Patino",
+			"ImageURL": ""
+        },
+		{
+			"ID": 20,
+			"Forename": "Ricky",
+			"Surname": "Banda",
+			"ImageURL": ""
+        },
+		{
+			"ID": 21,
+			"Forename": "Mohamed",
+			"Surname": "Gabrane",
+			"ImageURL": ""
+        },
+		{
+			"ID": 22,
+			"Forename": "Dia Wah",
+			"Surname": "Mickael",
+			"ImageURL": ""
+        },
+		{
+			"ID": 23,
+			"Forename": "Osho",
+			"Surname": "Dayo",
+			"ImageURL": ""
+        },
+		{
+			"ID": 24,
+			"Forename": "Jusif",
+			"Surname": "Ali",
+			"ImageURL": ""
+        },
+		{
+			"ID": 25,
+			"Forename": "Mubarak",
+			"Surname": "Abdallah",
+			"ImageURL": ""
+        }
+	],
+	"ClubData": [
+		{
+			"ID": 6,
+			"Name": "Al Merrikh Omdurman",
+			"ShortName": "MER",
+			"ImageURL": "https://tmssl.akamaized.net//images/wappen/head/10721.png?lm=1568217843"
+		}
+	],
+	"LeagueData": [
+		{
+			"ID": 106,
+			"Name": "Sudanese Premier League",
+			"ImageURL": "https://www.kickalgor.com/wp-content/uploads/2019/08/Sudani_Premier_League.png"
+		}
+	],
+	"CupData": [
+		{
+			"ID": 206,
+			"Name": "Sudanese National Cup",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/ar/2/25/Sudan_Cup.png"
+		}
+	],
+	"StadiumData": [
+		{
+			"ID": 306,
+			"Name": "Red Castle Stadium"
+		}
+	]
+}

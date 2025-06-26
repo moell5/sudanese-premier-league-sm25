@@ -1,0 +1,182 @@
+{
+	"PlayerData": [
+		{
+			"ID": 1,
+			"Forename": "Mazin",
+			"Surname": "Hassan
+			"ImageURL": ""
+		},
+		{
+			"ID": 2,
+			"Forename": "Saif",
+			"Surname": "Eldin",
+			"ImageURL": ""
+        },
+		{
+			"ID": 3,
+			"Forename": "Mohamed",
+			"Surname": "Abdo",
+			"ImageURL": ""
+        },
+		{
+			"ID": 4,
+			"Forename": "Goma",
+			"Surname": "Abdelrahman",
+			"ImageURL": ""
+        },
+		{
+			"ID": 5,
+			"Forename": "Taha",
+			"Surname": "Salah",
+			"ImageURL": ""
+        },
+		{
+			"ID": 6,
+			"Forename": "Bashir",
+			"Surname": "Adam",
+			"ImageURL": ""
+        },
+		{
+			"ID": 7,
+			"Forename": "Omer",
+			"Surname": "Zakaria",
+			"ImageURL": ""
+        },
+		{
+			"ID": 8,
+			"Forename": "Majdi",
+			"Surname": "Mohamed",
+			"ImageURL": ""
+        },
+		{
+			"ID": 9,
+			"Forename": "Yousif",
+			"Surname": "Hamdan",
+			"ImageURL": ""
+        },
+		{
+			"ID": 10,
+			"Forename": "Rami",
+			"Surname": "Sharif",
+			"ImageURL": ""
+        },
+		{
+			"ID": 11,
+			"Forename": "Hussein",
+			"Surname": "Nour",
+			"ImageURL": ""
+        },
+		{
+			"ID": 12,
+			"Forename": "Nadir",
+			"Surname": "Amin",
+			"ImageURL": ""
+        },
+		{
+			"ID": 13,
+			"Forename": "Kamal",
+			"Surname": "Yagoub",
+			"ImageURL": ""
+        },
+		{
+			"ID": 14,
+			"Forename": "Fadi",
+			"Surname": "Abdalla",
+			"ImageURL": ""
+        },
+		{
+			"ID": 15,
+			"Forename": "Walid",
+			"Surname": "Saber",
+			"ImageURL": ""
+        },
+		{
+			"ID": 16,
+			"Forename": "Ismail",
+			"Surname": "Omer",
+			"ImageURL": ""
+        },
+		{
+			"ID": 17,
+			"Forename": "Amin",
+			"Surname": "Salih",
+			"ImageURL": ""
+        },
+		{
+			"ID": 18,
+			"Forename": "Ishaq",
+			"Surname": "Osman",
+			"ImageURL": ""
+        },
+		{
+			"ID": 19,
+			"Forename": "Murtada",
+			"Surname": "Farouk",
+			"ImageURL": ""
+        },
+		{
+			"ID": 20,
+			"Forename": "Habib",
+			"Surname": "Younis",
+			"ImageURL": ""
+        },
+		{
+			"ID": 21,
+			"Forename": "Yagoub",
+			"Surname": "Mohieldin",
+			"ImageURL": ""
+        },
+		{
+			"ID": 22,
+			"Forename": "Mubarak",
+			"Surname": "Abbas",
+			"ImageURL": ""
+        },
+		{
+			"ID": 23,
+			"Forename": "Abdelrahim",
+			"Surname": "Saeed",
+			"ImageURL": ""
+        },
+		{
+			"ID": 24,
+			"Forename": "Salem",
+			"Surname": "Hassan",
+			"ImageURL": ""
+        },
+		{
+			"ID": 25,
+			"Forename": "Tamer",
+			"Surname": "Bakhit",
+			"ImageURL": ""
+        }
+	],
+	"ClubData": [
+		{
+			"ID": 8,
+			"Name": "Al Shorta Gadarif",
+			"ShortName": "ALSG",
+			"ImageURL": "https://tmssl.akamaized.net//images/wappen/head/60078.png?lm=1696965206""
+		}
+	],
+	"LeagueData": [
+		{
+			"ID": 108,
+			"Name": "Sudanese Premier League",
+			"ImageURL": "https://www.kickalgor.com/wp-content/uploads/2019/08/Sudani_Premier_League.png"
+		}
+	],
+	"CupData": [
+		{
+			"ID": 208,
+			"Name": "Sudanese National Cup",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/ar/2/25/Sudan_Cup.png"
+		}
+	],
+	"StadiumData": [
+		{
+			"ID": 308,
+			"Name": "Gadarif Stadium"
+		}
+	]
+}
