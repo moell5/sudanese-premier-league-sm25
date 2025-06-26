@@ -1,0 +1,363 @@
+{
+	"PlayerData": [
+		{
+			"ID": 1,
+			"Forename": "Hani",
+			"Surname": "Mahir",
+			"ImageURL": ""
+		},
+		{
+			"ID": 2,
+			"Forename": "Ahmed",
+			"Surname": "Peter",
+			"ImageURL": ""
+        },
+		{
+			"ID": 3,
+			"Forename": "Khamis",
+			"Surname": "Martin",
+			"ImageURL": ""
+        },
+		{
+			"ID": 4,
+			"Forename": "Mohsen",
+			"Surname": "Abdalla",
+			"ImageURL": ""
+        },
+		{
+			"ID": 5,
+			"Forename": "El Tayib",
+			"Surname": "El Mahi",
+			"ImageURL": ""
+        },
+		{
+			"ID": 6,
+			"Forename": "Osman",
+			"Surname": "Haroun",
+			"ImageURL": ""
+        },
+		{
+			"ID": 7,
+			"Forename": "Elsadig",
+			"Surname": "Babiker",
+			"ImageURL": ""
+        },
+		{
+			"ID": 8,
+			"Forename": "Paulo",
+			"Surname": "Sergio",
+			"ImageURL": ""
+        },
+		{
+			"ID": 9,
+			"Forename": "Mosab",
+			"Surname": "Ahmed",
+			"ImageURL": ""
+        },
+		{
+			"ID": 10,
+			"Forename": "Mohammed",
+			"Surname": "Khames",
+			"ImageURL": ""
+        },
+		{
+			"ID": 11,
+			"Forename": "Salih",
+			"Surname": "Abdalla",
+			"ImageURL": ""
+        },
+		{
+			"ID": 12,
+			"Forename": "Ashref",
+			"Surname": "Hassan",
+			"ImageURL": ""
+        },
+		{
+			"ID": 13,
+			"Forename": "Saber",
+			"Surname": "Ismael",
+			"ImageURL": ""
+        },
+		{
+			"ID": 14,
+			"Forename": "Salah"
+			"Surname": "Yahia",
+			"ImageURL": ""
+        },
+		{
+			"ID": 15,
+			"Forename": "Malik Mohamed",
+			"Surname": "Ibrahim",
+			"ImageURL": ""
+        },
+		{
+			"ID": 16,
+			"Forename": "Ismail",
+			"Surname": "Siddig",
+			"ImageURL": ""
+        },
+		{
+			"ID": 17,
+			"Forename": "Alraih",
+			"Surname": "Ali Maki",
+			"ImageURL": ""
+        },
+		{
+			"ID": 18,
+			"Forename": ""Abdalla,
+			"Surname": "Ibrahim",
+			"ImageURL": ""
+        },
+		{
+			"ID": 19,
+			"Forename": "Ahmed",
+			"Surname": "Saifeldin",
+			"ImageURL": ""
+        },
+		{
+			"ID": 20,
+			"Forename": "Jean",
+			"Surname": "Lalana",
+			"ImageURL": ""
+        },
+		{
+			"ID": 21,
+			"Forename": "Heiti",
+			"Surname": "Gitom",
+			"ImageURL": ""
+        },
+		{
+			"ID": 22,
+			"Forename": "Ramadan",
+			"Surname": "Alagab",
+			"ImageURL": ""
+        },
+		{
+			"ID": 23,
+			"Forename": "Asrafif",
+			"Surname": "Tsfai",
+			"ImageURL": ""
+        },
+		{
+			"ID": 24,
+			"Forename": "Amer",
+			"Surname": "Yahgoub",
+			"ImageURL": ""
+        },
+		{
+			"ID": 25,
+			"Forename": "Hany",
+			"Surname": "Surah",
+			"ImageURL": ""
+        }
+	],
+	"ClubData": [
+		{
+			"ID": 16,
+			"Name": "Tuti Sports Club",
+			"ShortName": "TSC",
+			"ImageURL": "https://tmssl.akamaized.net//images/wappen/head/96072.png?lm=1675289795"
+		}
+	],
+	"LeagueData": [
+		{
+			"ID": 116,
+			"Name": "Sudanese Premier League",
+			"ImageURL": "https://www.kickalgor.com/wp-content/uploads/2019/08/Sudani_Premier_League.png"
+	    }
+	],
+	"CupData": [
+		{
+			"ID": 216,
+			"Name": "Sudanese National Cup",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/ar/2/25/Sudan_Cup.png"
+		}
+	],
+	"StadiumData": [
+		{
+			"ID": 316,
+			"Name": "Tuti Island Stadium"
+		}
+	],
+{
+	"PlayerData": [
+		{
+			"ID": 1,
+			"Forename": "Adel",
+			"Surname": "Abdel Rasoul",
+			"ImageURL": ""
+		},
+		{
+			"ID": 2,
+			"Forename": "Esam",
+			"Surname": "Shamila",
+			"ImageURL": ""
+        },
+		{
+			"ID": 3,
+			"Forename": "Eldin",
+			"Surname": "Abdulrahim",
+			"ImageURL": ""
+        },
+		{
+			"ID": 4,
+			"Forename": "Mohamed",
+			"Surname": "Habba",
+			"ImageURL": ""
+        },
+		{
+			"ID": 5,
+			"Forename": "Mohamed",
+			"Surname": "El Liby",
+			"ImageURL": ""
+        },
+		{
+			"ID": 6,
+			"Forename": "Nader",
+			"Surname": "Mohamed",
+			"ImageURL": ""
+        },
+		{
+			"ID": 7,
+			"Forename": "Saeed",
+			"Surname": "Siddig",
+			"ImageURL": ""
+        },
+		{
+			"ID": 8,
+			"Forename": "Abdelaziz",
+			"Surname": "Fathi",
+			"ImageURL": ""
+        },
+		{
+			"ID": 9,
+			"Forename": "Zeryab",
+			"Surname": "Hussein",
+			"ImageURL": ""
+        },
+		{
+			"ID": 10,
+			"Forename": "Mohamed",
+			"Surname": "Luka",
+			"ImageURL": ""
+        },
+		{
+			"ID": 11,
+			"Forename": "Abdel",
+			"Surname": "Aziz",
+			"ImageURL": ""
+        },
+		{
+			"ID": 12,
+			"Forename": "Hassan",
+			"Surname": "Sheikheldin",
+			"ImageURL": ""
+        },
+		{
+			"ID": 13,
+			"Forename": "Salah",
+			"Surname": "Eldin",
+			"ImageURL": ""
+        },
+		{
+			"ID": 14,
+			"Forename": "Osman",
+			"Surname": "Billal",
+			"ImageURL": ""
+        },
+		{
+			"ID": 15,
+			"Forename": "Atif",
+			"Surname": "Eltayeb",
+			"ImageURL": ""
+        },
+		{
+			"ID": 16,
+			"Forename": "Khalid",
+			"Surname": "Kuku",
+			"ImageURL": ""
+        },
+		{
+			"ID": 17,
+			"Forename": "Omer",
+			"Surname": "Tronbil",
+			"ImageURL": ""
+        },
+		{
+			"ID": 18,
+			"Forename": "Mustafa",
+			"Surname": "Karshoum",
+			"ImageURL": ""
+        },
+		{
+			"ID": 19,
+			"Forename": "Kasri",
+			"Surname": "Hakeem",
+			"ImageURL": ""
+        },
+		{
+			"ID": 20,
+			"Forename": "Wagdi",
+			"Surname": "Alla",
+			"ImageURL": ""
+        },
+		{
+			"ID": 21,
+			"Forename": "Bader",
+			"Surname": "Galag",
+			"ImageURL": ""
+        },
+		{
+			"ID": 22,
+			"Forename": "Muataz",
+			"Surname": "Tosa",
+			"ImageURL": ""
+        },
+		{
+			"ID": 23,
+			"Forename": "Azam",
+			"Surname": "Adil",
+			"ImageURL": ""
+        },
+		{
+			"ID": 24,
+			"Forename": "Mohab",
+			"Surname": "El Mustafa",
+			"ImageURL": ""
+        },
+		{
+			"ID": 25,
+			"Forename": "Dominic",
+			"Surname": "Abul",
+			"ImageURL": ""
+        }
+	],
+	"ClubData": [
+		{
+			"ID": 15,
+			"Name": "Khartoum National Club",
+			"ShortName": "KSC",
+			"ImageURL": "https://tmssl.akamaized.net//images/wappen/head/37581.png?lm=1675456638"
+		}
+	],
+	"LeagueData": [
+		{
+			"ID": 115,
+			"Name": "Sudanese Premier League",
+			"ImageURL": "https://www.kickalgor.com/wp-content/uploads/2019/08/Sudani_Premier_League.png"
+		}
+	],
+	"CupData": [
+		{
+			"ID": 215,
+			"Name": "Sudanese National Cup",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/ar/2/25/Sudan_Cup.png"
+		}
+	],
+	"StadiumData": [
+		{
+			"ID": 315,
+			"Name": "Khartoum Stadium"
+		}
+	]
+}
